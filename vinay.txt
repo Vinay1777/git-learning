@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 welcome to git 
@@ -5,3 +6,6 @@ welcome to git
 i am vinay 
 
 vinay is editing 
+=======
+vinay is editing 
+>>>>>>> 9c16c441092447a16848e622141a6a106e22c4c9
