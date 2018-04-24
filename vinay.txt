@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 welcome to git 
@@ -9,3 +10,8 @@ vinay is editing
 =======
 vinay is editing 
 >>>>>>> 9c16c441092447a16848e622141a6a106e22c4c9
+=======
+vinay is editing 
+
+editing by girish
+>>>>>>> 898188da64b5710bf44816295f63494bcb653785
